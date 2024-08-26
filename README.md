@@ -184,14 +184,13 @@ https://www.behance.net/gallery/47001171/Jeon-jihyunRedesign-Design-Lee-jungmee
 
 
 
+
+
+
+
+  
   
 </pre>
-
-
-
-
-
-
 
 --------------------
 PROJECT - RWD CLONE CODING
@@ -243,8 +242,11 @@ reference
 --------------------
 동영상 PT 시나리오 작성
 =====================
+
 실전 피티에 도움 될 수 있는 포스팅   
+
 https://blog.naver.com/moolsaess/221383456061
+<pre>
 
 
 
@@ -252,17 +254,37 @@ https://blog.naver.com/moolsaess/221383456061
 
 
 
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 동영상 PT 레퍼런스
 =====================
 reference   
+
 https://www.youtube.com/watch?v=s8uFhf1RdxM
+<pre>
 
 
 
 
 
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 -----------------
 동영상 PT 제작 실습
@@ -272,16 +294,43 @@ https://www.youtube.com/@jeonjinuk
 
 곰캠 다운로드   
 https://www.gomlab.com/
+<pre>
 
 
 
 
 
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------------
 완성 후 배포
 ========
 
 reference
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 end
