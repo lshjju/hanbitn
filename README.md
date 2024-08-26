@@ -1,5 +1,13 @@
 # hanbitn
-hanbitn-material
+
+
+
+
+--------------------
+인트로
+=====================
+
+https://www.hanbit.co.kr/store/books/look.php?p_code=B6299397687
 
 https://www.youtube.com/@jeonjinuk
 
@@ -11,44 +19,127 @@ https://kr.pinterest.com/uksweb/uksweb-portfolio/
 
 https://jdlabs.modoo.at/
 
-블로그 보기   
 https://blog.naver.com/moolsaess
 
-
-----------------------------------
-
-
---------------------
-인트로
-=====================
 
 --------------------
 포트폴리오 사이트 제작 툴 가이드
 =====================
 
+블로그 툴
+https://lshjju.tistory.com/4
+
+위즈윅 툴
+
+https://mylovedc.modoo.at/
+
+
 --------------------
 위즈윅 에디터 포트폴리오 제작 실습
 =====================
+
+실습
+https://www.youtube.com/
+
+
+
 
 --------------------
 포트폴리오 전략 세팅
 =====================
 
+reference
+
 --------------------
 마이 포지션 세팅
 =====================
+
+reference
 
 --------------------
 레퍼런스 세팅
 =====================
 
+reference
+
+--------------------
+유아이 디자인 베스트 레퍼런스 
+=====================
+
+유아이 디자인 베스트 레퍼런스
+
+https://blog.naver.com/moolsaess/222771641173
+
+
+
+
+
+
 --------------------
 PROJECT - E-COMMERCE WEB
 =====================
 
+real web
+
+https://www.elandmall.co.kr/
+
+https://www.yunjac.com
+
+https://www.bang-olufsen.com/en/us
+
+
+behance 
+
+https://www.behance.net/gallery/201241695/Shopify-furniture-brand-ecommerce-storewebsite-design
+
+https://www.behance.net/gallery/202133657/E-Commerce-Ui-Design
+
+https://www.behance.net/gallery/202242703/E-commerce-Website-Jewelry-Shop
+
+jinuk crew 
+
+http://jeonjinuk.com/sp/kimminji/
+
+http://jeonjinuk.com/sp/kimbyeongyong/
+
+http://jeonjinuk.com/sp/kimminjeong
+
+
+
+
+
+
 --------------------
 PROJECT - NATIVE APP
 =====================
+
+behance
+
+https://www.behance.net/gallery/179130325/Smart-Task-Mobile-App?tracking_source=search_projects_appreciations
+
+https://www.behance.net/gallery/179262735/PaddleWaves-App_Online-Vintage-Watch-Trade-Application?tracking_source=search_projects_appreciations
+
+https://www.behance.net/gallery/58175081/Laundry-App-SaaS-UX-UI-Design?tracking_source=search_projects_appreciations
+
+jinuk crew
+
+https://www.behance.net/gallery/76022789/You-nahyun-muji-redesign
+
+https://www.behance.net/gallery/76639455/Lee-jubin-app
+
+https://www.behance.net/gallery/76743263/Jo-yoonjin-app-design
+
+jinuk
+
+figma prototype - 50초부터 보세요
+
+https://www.youtube.com/watch?v=5hxQnScDqUI
+
+위 프로젝트 구현 강의 보기
+
+https://www.youtube.com/watch?v=5hxQnScDqUI&list=PLpK-F7ihqVc1wdNKilRSqdYFVg6mzHIdp
+
+
 
 --------------------
 PROJECT - BRANDING WEB
