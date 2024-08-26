@@ -1,7 +1,4 @@
-# hanbitn
-
-
-
+# HANBITN REFERENCE
 
 --------------------
 인트로
@@ -21,46 +18,137 @@ https://jdlabs.modoo.at/
 
 https://blog.naver.com/moolsaess
 
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 포트폴리오 사이트 제작 툴 가이드
 =====================
 
 블로그 툴
+
 https://lshjju.tistory.com/4
 
 위즈윅 툴
 
 https://mylovedc.modoo.at/
 
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 위즈윅 에디터 포트폴리오 제작 실습
 =====================
-
 실습
+
 https://www.youtube.com/
+<pre>
 
 
 
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 포트폴리오 전략 세팅
 =====================
-
 reference
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 마이 포지션 세팅
 =====================
-
 reference
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 레퍼런스 세팅
 =====================
-
 reference
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 유아이 디자인 베스트 레퍼런스 
@@ -69,11 +157,22 @@ reference
 유아이 디자인 베스트 레퍼런스
 
 https://blog.naver.com/moolsaess/222771641173
+<pre>
 
 
 
 
 
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 PROJECT - E-COMMERCE WEB
@@ -103,11 +202,22 @@ http://jeonjinuk.com/sp/kimminji/
 http://jeonjinuk.com/sp/kimbyeongyong/
 
 http://jeonjinuk.com/sp/kimminjeong
+<pre>
 
 
 
 
 
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 PROJECT - NATIVE APP
@@ -138,8 +248,22 @@ https://www.youtube.com/watch?v=5hxQnScDqUI
 위 프로젝트 구현 강의 보기
 
 https://www.youtube.com/watch?v=5hxQnScDqUI&list=PLpK-F7ihqVc1wdNKilRSqdYFVg6mzHIdp
+<pre>
 
 
+
+
+
+
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 PROJECT - BRANDING WEB
@@ -209,6 +333,7 @@ https://codepen.io/lshjju/pen/dyZwVpq
 
 코딩 공부하기   
 https://www.youtube.com/watch?v=cYFtDPCrzXo&list=PLpK-F7ihqVc03CuIb-apIjBwwtQtca6SG
+<pre>
 
 
 
@@ -216,28 +341,56 @@ https://www.youtube.com/watch?v=cYFtDPCrzXo&list=PLpK-F7ihqVc03CuIb-apIjBwwtQtca
 
 
 
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 면접 필수 질문 텍스트 작성
 =====================
 reference
+<pre>
 
 
 
 
 
 
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 마이 디자인 룰 텍스트 작성
 =====================
 reference
+<pre>
 
 
 
 
 
 
+
+
+
+
+
+
+  
+  
+</pre>
 
 --------------------
 동영상 PT 시나리오 작성
