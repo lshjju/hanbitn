@@ -4,19 +4,17 @@
 인트로
 =====================
 
-https://www.hanbit.co.kr/store/books/look.php?p_code=B6299397687
+최종 포트폴리오 레퍼런스   
+https://mylovedc.modoo.at/
 
-https://www.youtube.com/@jeonjinuk
-
-https://lshjju.tistory.com/
-
-https://www.behance.net/uksweb
-
-https://kr.pinterest.com/uksweb/uksweb-portfolio/
-
+강사 크루 웹 레퍼런스
 https://jdlabs.modoo.at/
 
-https://blog.naver.com/moolsaess
+강사 크루 비핸스 
+https://www.behance.net/uksweb
+
+강사 크루 핀터레스트   
+https://kr.pinterest.com/uksweb/uksweb-portfolio/
 
 <pre>
 
@@ -39,13 +37,11 @@ https://blog.naver.com/moolsaess
 포트폴리오 사이트 제작 툴 가이드
 =====================
 
-블로그 툴
-
-https://lshjju.tistory.com/4
-
-위즈윅 툴
-
+위즈윅 툴   
 https://mylovedc.modoo.at/
+
+블로그 툴   
+https://lshjju.tistory.com/4
 
 <pre>
 
@@ -67,9 +63,9 @@ https://mylovedc.modoo.at/
 --------------------
 위즈윅 에디터 포트폴리오 제작 실습
 =====================
-실습
 
-https://www.youtube.com/
+영상 예정
+
 <pre>
 
 
@@ -90,7 +86,7 @@ https://www.youtube.com/
 --------------------
 포트폴리오 전략 세팅
 =====================
-reference
+
 <pre>
 
 
@@ -111,7 +107,7 @@ reference
 --------------------
 마이 포지션 세팅
 =====================
-reference
+
 <pre>
 
 
@@ -132,7 +128,7 @@ reference
 --------------------
 레퍼런스 세팅
 =====================
-reference
+
 <pre>
 
 
@@ -154,9 +150,9 @@ reference
 유아이 디자인 베스트 레퍼런스 
 =====================
 
-유아이 디자인 베스트 레퍼런스
-
+유아이 디자인 베스트 레퍼런스   
 https://blog.naver.com/moolsaess/222771641173
+
 <pre>
 
 
@@ -241,13 +237,12 @@ https://www.behance.net/gallery/76743263/Jo-yoonjin-app-design
 
 jinuk
 
-figma prototype - 50초부터 보세요
-
+figma prototype - 50초부터 보세요   
 https://www.youtube.com/watch?v=5hxQnScDqUI
 
-위 프로젝트 구현 강의 보기
-
+위 프로젝트 구현 강의 보기   
 https://www.youtube.com/watch?v=5hxQnScDqUI&list=PLpK-F7ihqVc1wdNKilRSqdYFVg6mzHIdp
+
 <pre>
 
 
@@ -328,10 +323,12 @@ https://www.hansolpns.com/main.do#none
 https://www.posri.re.kr/kor/index.do
 
 jinuk   
+
+
 베이직 반응형 웹 코드   
 https://codepen.io/lshjju/pen/dyZwVpq
 
-코딩 공부하기   
+코드 강의   
 https://www.youtube.com/watch?v=cYFtDPCrzXo&list=PLpK-F7ihqVc03CuIb-apIjBwwtQtca6SG
 <pre>
 
@@ -353,7 +350,7 @@ https://www.youtube.com/watch?v=cYFtDPCrzXo&list=PLpK-F7ihqVc03CuIb-apIjBwwtQtca
 --------------------
 면접 필수 질문 텍스트 작성
 =====================
-reference
+
 <pre>
 
 
@@ -374,7 +371,7 @@ reference
 --------------------
 마이 디자인 룰 텍스트 작성
 =====================
-reference
+
 <pre>
 
 
@@ -397,7 +394,6 @@ reference
 =====================
 
 실전 피티에 도움 될 수 있는 포스팅   
-
 https://blog.naver.com/moolsaess/221383456061
 <pre>
 
@@ -419,9 +415,10 @@ https://blog.naver.com/moolsaess/221383456061
 --------------------
 동영상 PT 레퍼런스
 =====================
-reference   
 
+강사 PT 레퍼런스 보기   
 https://www.youtube.com/watch?v=s8uFhf1RdxM
+
 <pre>
 
 
@@ -442,8 +439,9 @@ https://www.youtube.com/watch?v=s8uFhf1RdxM
 -----------------
 동영상 PT 제작 실습
 ================
-실습 영상 URL   
-https://www.youtube.com/@jeonjinuk
+
+실습 영상 URL      
+영상 유알엘 예정
 
 곰캠 다운로드   
 https://www.gomlab.com/
@@ -468,7 +466,6 @@ https://www.gomlab.com/
 완성 후 배포
 ========
 
-reference
 <pre>
 
 
