@@ -7,13 +7,13 @@
 최종 포트폴리오 레퍼런스   
 https://mylovedc.modoo.at/
 
-강사 크루 웹 레퍼런스
+강사 크루 웹 레퍼런스   
 https://jdlabs.modoo.at/
 
-강사 크루 비핸스 
+강사 크루 비핸스    
 https://www.behance.net/uksweb
 
-강사 크루 핀터레스트   
+강사 크루 핀터레스트     
 https://kr.pinterest.com/uksweb/uksweb-portfolio/
 
 <pre>
