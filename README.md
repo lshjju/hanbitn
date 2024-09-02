@@ -326,8 +326,14 @@ https://www.posri.re.kr/kor/index.do
 jinuk   
 
 
-베이직 반응형 웹 코드   
+베이직 반응형 웹 코드  
+
+
+float - box ver   
 https://codepen.io/lshjju/pen/dyZwVpq
+
+flex - box ver   
+https://codepen.io/lshjju/full/dyZwVpq
 
 코드 강의   
 https://www.youtube.com/watch?v=cYFtDPCrzXo&list=PLpK-F7ihqVc03CuIb-apIjBwwtQtca6SG
